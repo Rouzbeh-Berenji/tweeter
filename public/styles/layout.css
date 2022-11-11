@@ -6,20 +6,39 @@
 html {
   box-sizing: border-box;
 }
-*, *:before, *:after {
+
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
 /*
  * Global layout stuff
  */
-
 body {
   color: #545149;
   background-color: #f4f1ec;
+  font: 'Source Sans Pro';
   font-size: 24px;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
+main {
+  width: 90%;
+  background-color: body[background-color];
+  display: flex;
+  flex-direction: row;
+  color: #38256e;
+  font-family: 'Source Sans Pro';
+  flex-direction: column;
+  margin: 3em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}

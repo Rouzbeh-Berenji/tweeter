@@ -1,0 +1,23 @@
+.main-header {
+  color: #FFFFFF;
+  background-color: #d8ef86;
+  font-family: 'Source Sans Pro';
+  font-size: 1em;
+  min-height: 490px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4em;
+  width: 100%;
+}
+
+.profile-avatar {
+  padding-top: 3em;
+}
+
+.profile-name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

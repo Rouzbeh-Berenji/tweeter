@@ -8,8 +8,10 @@ I was given the starter code for this project from Lighthouse Labs and then I bu
 The tweet submission form includes error handling and form validation where if there's nothing in the textarea or if it exceeds 140 character limit, the user is shown an error feedback. Otherwise, the tweet will post successfully!
 It is also support resizing the viewport.
 
-!["Screenshot "]()
-!["Screenshot ]()
+!["Screenshot1"](https://github.com/Rouzbeh-Berenji/tweeter/blob/master/docs/Main%20View%20.png)
+!["Screenshot2"](https://github.com/Rouzbeh-Berenji/tweeter/blob/master/docs/Resizing%20view%20page.png)
+!["Screenshot3"](https://github.com/Rouzbeh-Berenji/tweeter/blob/master/docs/Error%202.png)
+!["Screenshot4"](https://github.com/Rouzbeh-Berenji/tweeter/blob/master/docs/Error%201.png)
 
 ## Getting Started
 
@@ -25,11 +27,8 @@ It is also support resizing the viewport.
 - body-parser
 - chance
 - md-5
-
 - timeago.js
  
-# Final Version 
-usin Ajax to
     
 
     

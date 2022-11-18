@@ -22,7 +22,7 @@ It is also support resizing the viewport.
 
 ## Dependencies
 
-- Express
+- express
 - Node 5.10.x or above
 - body-parser
 - chance
